@@ -100,3 +100,7 @@ Erectile dysfunction is a common health concern, and experiencing it does not me
 Rather than relying on unverified supplements or self-medication, men should seek appropriate evaluation and discuss treatment options based on their individual health needs.
 
 **Medical Disclaimer:** This article is intended for general educational purposes and does not replace professional medical advice, diagnosis or treatment.
+
+## Related Reading
+
+Premature ejaculation and erectile dysfunction can sometimes overlap, although they are different sexual health concerns. Read our guide to [understanding premature ejaculation, its causes and treatment options](premature-ejaculation.md).
